@@ -4,10 +4,10 @@ Welcome to my GitHub! I'm a Cloud Operations professional passionate about Azure
 
 ## 🚀 About Me
 
-- ☁️ **Cloud Operations Specialist** - Expertise in Azure cloud infrastructure and administration
-- 🔧 I'm proficient in **Azure Administrator**, **Technical Support**, and **System Administration**
+- ☁️ **Cloud Operations Specialist** - Azure cloud infrastructure and administration
+- 🔧 I'm passionate in **Azure Administrator**, **Technical Support**, and **System Administration**
 - 📚 Currently expanding my cloud architecture knowledge and Azure ecosystem
-- 💬 Ask me about Azure, cloud infrastructure, system troubleshooting, or cloud operations best practices
+- 💬 Azure, cloud infrastructure, system troubleshooting, or cloud operations best practices
 - 📧 Connect with me at **[LinkedIn](https://www.linkedin.com/in/osama-eljichi/)**
 
 ## 🏆 Certifications
@@ -31,11 +31,6 @@ Welcome to my GitHub! I'm a Cloud Operations professional passionate about Azure
 - [LinkedIn](https://www.linkedin.com/in/osama-eljichi/)
 - [Portfolio Website](https://osama-eljichi-portfolio.my.canva.site/)
 
-## 📈 GitHub Stats
-
-![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=osamajishi&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamajishi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Latest Projects
 
