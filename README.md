@@ -14,6 +14,7 @@ Welcome to my GitHub! I'm a Cloud Operations professional passionate about Azure
 
 - **Microsoft Azure Administrator (AZ-104)** ✅
 - **Microsoft Azure Fundamentals (AZ-900)** ✅
+- **Azure Virtual Desktop Specialty (AZ-140)** ✅
 
 ## 💻 Technical Skills
 
