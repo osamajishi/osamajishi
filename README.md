@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a Cloud Operations professional passionate about Azure infrastructure, system administration, and delivering robust technical solutions.
 
-## 🚀 About Me
+##   About Me
 
 - ☁️ **Cloud Operations Specialist** - Azure cloud infrastructure and administration
 - 🔧 I'm passionate in **Azure Administrator**, **Technical Support**, and **System Administration**
@@ -12,8 +12,8 @@ Welcome to my GitHub! I'm a Cloud Operations professional passionate about Azure
 
 ## 🏆 Certifications
 
+- **Microsoft Azure Fundamentals (AZ-900)** ✅  
 - **Microsoft Azure Administrator (AZ-104)** ✅
-- **Microsoft Azure Fundamentals (AZ-900)** ✅
 - **Azure Virtual Desktop Specialty (AZ-140)** ✅
 
 ## 💻 Technical Skills
