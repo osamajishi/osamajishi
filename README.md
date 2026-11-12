@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a Cloud Operations professional passionate about Azure
 ## 💻 Technical Skills
 
 **Cloud Platforms:** Microsoft Azure, Azure Virtual Machines, Azure App Services, Azure Storage  
-**Languages & Scripting:** PowerShell, CLI (Bash/Sh)  
+**Languages & Scripting:** PowerShell, CLI (Bash/Sh), Terraform 
 **Core Competencies:** 
 - Azure Administration & Management
 - System Administration & Configuration
